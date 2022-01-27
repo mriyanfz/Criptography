@@ -20,3 +20,4 @@ s = 4
 print ("Plain Text : " + text)
 print ("Shift pattern : " + str(s))
 print ("Cipher: " + encrypt(text,s))
+#Nyoba Nyoba
